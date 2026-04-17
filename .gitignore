@@ -1,0 +1,26 @@
+# Environment & credentials — NEVER commit these
+.env
+credentials.json
+token.json
+firebase-service-account.json
+
+# Conversation logs contain real inmate names and private legal content
+logs/
+
+# Local Claude Code settings
+.claude/
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Proposal documents may contain personal information
+Proposal/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

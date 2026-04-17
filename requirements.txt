@@ -1,0 +1,10 @@
+# Gmail API
+google-auth>=2.0.0
+google-auth-oauthlib>=0.4.0
+google-api-python-client>=2.0.0
+# Selenium
+selenium>=4.0.0
+# OpenAI API
+openai>=1.0.0
+# General
+python-dotenv
